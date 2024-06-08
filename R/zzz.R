@@ -5,3 +5,4 @@
     packageStartupMessage(paste(strwrap(msg), collapse = "\n"))
 }
 
+sadsa
